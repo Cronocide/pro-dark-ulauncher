@@ -20,7 +20,7 @@
 @define-color selected_bg_color @pro-white;
 @define-color selected_fg_color @pro-black;
 @define-color input_color @pro-white;
-@define-color caret_color pro-black;
+@define-color caret_color @pro-black;
 
 /**
  * Result items
