@@ -25,8 +25,8 @@
 /**
  * Result items
  */
-@define-color item_name @pro-black;
-@define-color item_text @pro-black;
+@define-color item_name @pro-white;
+@define-color item_text @pro-white;
 @define-color item_box_selected @pro-white;
 @define-color item_text_selected @pro-black;
 @define-color item_name_selected @pro-black;
