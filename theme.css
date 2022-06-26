@@ -11,7 +11,7 @@
  */
 @define-color bg_color @pro-black;
 @define-color window_bg @bg_color;
-@define-color window_border_color @pro-white;
+@define-color window_border_color @pro-black;
 @define-color prefs_backgroud @pro-black;
 
 /**
@@ -20,7 +20,7 @@
 @define-color selected_bg_color @pro-white;
 @define-color selected_fg_color @pro-black;
 @define-color input_color @pro-white;
-@define-color caret_color darker(@input_color);
+@define-color caret_color lighter(@input_color);
 
 /**
  * Result items
