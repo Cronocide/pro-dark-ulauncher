@@ -32,8 +32,8 @@
 @define-color item_name_selected @pro-black;
 @define-color item_shortcut_color @pro-white;
 @define-color item_shortcut_shadow @bg_color;
-@define-color item_shortcut_color_sel @pro-black;
-@define-color item_shortcut_shadow_sel @bg_color;
+@define-color item_shortcut_color_sel @item_text_selected;
+@define-color item_shortcut_shadow_sel @item_box_selected;
 
 .app {
     background-color: @window_bg;
