@@ -20,14 +20,14 @@
 @define-color selected_bg_color @pro-white;
 @define-color selected_fg_color @pro-black;
 @define-color input_color @pro-white;
-@define-color caret_color lighter(@input_color);
+@define-color caret_color pro-black;
 
 /**
  * Result items
  */
 @define-color item_name @pro-black;
 @define-color item_text @pro-black;
-@define-color item_box_selected @pro-black;
+@define-color item_box_selected @pro-white;
 @define-color item_text_selected @pro-black;
 @define-color item_name_selected @pro-black;
 @define-color item_shortcut_color @pro-black;
